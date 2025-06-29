@@ -1,0 +1,25 @@
+/* ... existing styles above ... */
+
+.nav-links li a.active {
+  color: #00bcd4;
+  font-weight: bold;
+}
+
+/* About page content styling */
+.about-content {
+  padding: 3rem 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.about-content h1 {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #333;
+}
+
+.about-content p {
+  font-size: 1.1rem;
+  color: #555;
+}
