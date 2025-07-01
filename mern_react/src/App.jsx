@@ -45,7 +45,7 @@ function App() {
     <>
     <h1>Learning useEffect</h1>
     <h2>{count}</h2>
-    <button onClick={()=>setCount(count+1)}>+ </button>
+    <button onClick={()=>setCount(count+ 1)}>+ </button>
     <h1>{nextCount}</h1>
     <button onClick={()=>setnextCount(nextCount + 1)}>+ </button>
     </>
