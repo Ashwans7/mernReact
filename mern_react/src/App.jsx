@@ -25,6 +25,7 @@ function App() {
 
 // // Second Type of useEffect
 // useEffect(()=>{
+      //changing title
 //   // document.title = "learning useEffect" + count
 //   console.log("useEffect was called")
 // },[count])
